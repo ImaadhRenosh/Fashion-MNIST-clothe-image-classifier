@@ -66,12 +66,12 @@ Part 2 : Then, I Create a Convolutional network with Batch Normalization
 <img width="1014" alt="Screenshot 2025-04-04 at 07 57 33" src="https://github.com/user-attachments/assets/443ff183-5e27-4c44-9fb9-fe300bd62073" />
 <img width="1017" alt="Screenshot 2025-04-04 at 07 57 59" src="https://github.com/user-attachments/assets/ac807088-850b-4c13-89d9-39e09b64f815" />
 <img width="1017" alt="Screenshot 2025-04-04 at 07 58 23" src="https://github.com/user-attachments/assets/bd53f2fd-8f83-4917-aba4-6e8f0ee4e25e" />
+<img width="1015" alt="Screenshot 2025-04-04 at 08 06 22" src="https://github.com/user-attachments/assets/819e429a-c86c-4614-b0c2-96fe46c3a3c5" />
 
-
-
-
-
-
+Plotted the graphs for loss and accuracy
+<img width="1016" alt="Screenshot 2025-04-04 at 08 06 47" src="https://github.com/user-attachments/assets/39be351b-0707-40f8-a843-d5752ab42672" />
+<img width="660" alt="Screenshot 2025-04-04 at 08 07 00" src="https://github.com/user-attachments/assets/6a180389-c1de-4f2d-8d60-545e3dbabca8" />    
+<img width="1017" alt="Screenshot 2025-04-04 at 08 07 11" src="https://github.com/user-attachments/assets/5e582ca9-a186-433e-85f7-f35e711739be" />
 
 
 ## Usage
