@@ -1,1 +1,1 @@
-# Fashion-MNIST-clothe-image-classifier
+# Fashion-MNIST-clothing-image-classifier
