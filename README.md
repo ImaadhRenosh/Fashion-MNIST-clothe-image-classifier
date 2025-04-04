@@ -49,6 +49,30 @@ To set up and run the project locally:
 
 ## Demo
 
+importing libraries
+<img width="674" alt="Screenshot 2025-04-04 at 07 54 34" src="https://github.com/user-attachments/assets/ed34fa0b-4df3-4835-91e0-619f2d30470e" />
+
+
+Part 1: Create a Dataset Class
+
+<img width="1013" alt="Screenshot 2025-04-04 at 07 55 40" src="https://github.com/user-attachments/assets/3830e9df-9fec-42d4-9389-c7759baa7c19" />
+<img width="1012" alt="Screenshot 2025-04-04 at 07 55 59" src="https://github.com/user-attachments/assets/9ee85e37-32c8-4640-9bde-7a70795251a2" />
+<img width="1019" alt="Screenshot 2025-04-04 at 07 56 26" src="https://github.com/user-attachments/assets/e24a690c-170a-4b6e-ab2b-3f0987264405" />
+<img width="1002" alt="Screenshot 2025-04-04 at 07 56 46" src="https://github.com/user-attachments/assets/847220f2-2567-47ee-a44d-fee042b51796" />
+
+
+Part 2 : Then, I Create a Convolutional network with Batch Normalization
+
+<img width="1014" alt="Screenshot 2025-04-04 at 07 57 33" src="https://github.com/user-attachments/assets/443ff183-5e27-4c44-9fb9-fe300bd62073" />
+<img width="1017" alt="Screenshot 2025-04-04 at 07 57 59" src="https://github.com/user-attachments/assets/ac807088-850b-4c13-89d9-39e09b64f815" />
+<img width="1017" alt="Screenshot 2025-04-04 at 07 58 23" src="https://github.com/user-attachments/assets/bd53f2fd-8f83-4917-aba4-6e8f0ee4e25e" />
+
+
+
+
+
+
+
 
 ## Usage
 After launching the Jupyter Notebook, you can:
