@@ -34,18 +34,20 @@ To set up and run the project locally:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/ImaadhRenosh/Fashion-MNIST-clothe-image-classifier.git
-    cd Fashion-MNIST-clothe-image-classifier
+    git clone https://github.com/ImaadhRenosh/Fashion-MNIST-clothing-image-classifier.git
+    cd Fashion-MNIST-clothing-image-classifier
     ```
 
 2. **Install Dependencies**: Install the required libraries using:
     ```sh
-    !pip install torch
-    !pip install torchvision
-    !pip install matplotlib
+    pip install torch
+    pip install torchvision
+    pip install matplotlib
     ```
 
-3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `Fashion_MNIST_Classifier.ipynb`.
+3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `FashionMNISTProject.ipynb`.
+
+For detailed instructions on the project setup and execution, you can refer to the [Fashion-MNIST Project Notebook](https://github.com/ImaadhRenosh/Fashion-MNIST-clothing-image-classifier/blob/main/FashionMNISTProject.ipynb).
 
 ## Demo
 
