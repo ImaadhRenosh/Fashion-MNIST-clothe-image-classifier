@@ -40,13 +40,15 @@ To set up and run the project locally:
 
 2. **Install Dependencies**: Install the required libraries using:
     ```sh
-    pip install torch torchvision numpy jupyter
+    !pip install torch
+    !pip install torchvision
+    !pip install matplotlib
     ```
 
 3. **Run the Jupyter Notebook**: Launch Jupyter Notebook and open `Fashion_MNIST_Classifier.ipynb`.
 
 ## Demo
-(TODO: Add images or screenshots of the model training and evaluation process)
+
 
 ## Usage
 After launching the Jupyter Notebook, you can:
