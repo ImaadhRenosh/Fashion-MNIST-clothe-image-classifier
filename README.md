@@ -13,11 +13,12 @@
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
-## Overview
-In this project, I will classify the Fashion-MNIST dataset using convolutional neural networks (with Batch Normalization).
+## Project Overview
+Welcome to my Fashion-MNIST Image Classifier project. In this repository, I showcase my expertise in computer vision and deep learning by building a Convolutional Neural Network (CNN) with Batch Normalization to classify images from the Fashion-MNIST dataset. I achieved a solid 88.5% accuracy on the test set after 4 epochs, with the loss decreasing from 300 to 160, demonstrating effective model convergence.
+This project highlights my ability to design, train, and evaluate a robust model for real-world image classification tasks, making me a strong candidate for AI engineering roles in big tech.
 
-## Aim of the Project
-The aim of this project is to develop a convolutional neural network with batch normalization layers that can accurately classify images from the Fashion-MNIST dataset. The project involves creating a dataset class, building and training the model, and evaluating its performance.
+## Project Aim
+The goal of this project is to develop a CNN model with Batch Normalization that accurately classifies grayscale images of fashion items from the Fashion-MNIST dataset into 10 distinct categories.
 
 ## Technologies Used
 - **Programming Language:** Python
