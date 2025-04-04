@@ -50,7 +50,8 @@ To set up and run the project locally:
 ## Demo
 
 importing libraries
-<img width="674" alt="Screenshot 2025-04-04 at 07 54 34" src="https://github.com/user-attachments/assets/ed34fa0b-4df3-4835-91e0-619f2d30470e" />
+<img width="1012" alt="Screenshot 2025-04-04 at 08 09 05" src="https://github.com/user-attachments/assets/d72d127d-5a7a-47b5-8886-a1d2d26da5f0" />
+
 
 
 Part 1: Create a Dataset Class
